@@ -49,7 +49,7 @@ for X in exercise_list:
     print('The value is not 2')
 
 exercise_counter = 0
-while exercise_counter <6:
+while exercise_counter <= 5:
   print('last item')
   exercise_counter +=1
 
